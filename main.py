@@ -26,7 +26,7 @@ for number in numbers_list:
         "to": f"{number}",
         "type": "template",
         "template": {
-            "name": "welcome_message",
+            "name": "welcome_message_v2",
             "language": {
                 "code": "en_GB"
             }
